@@ -1,0 +1,138 @@
+{
+   "data":[
+      {
+         "name":"Sunflower Money Changer",
+         "remark":"နံနက် ၉ နာရီ မှ ညနေ ၆ နာရီအထိ။ (ပိတ်ရက်မရှိ)",
+         "address":[
+            {
+               "name":"အမှတ် ၂၅၉/၂၆၃ အနော်ရထာလမ်းမနှင့် ရွှေဘုံသာ အလယ်လမ်းထောင့် (ဗိုလ်ချုပ်ဈေးအနီး)၊ Sunflower Hotel ပထမအထပ်၊ ပန်းဘဲတန်းမြို့နယ်၊ ရန်ကုန်မြို့။",
+               "latlong":"16.777179620399597,96.15594089703151",
+               "phone":"09765016562,09263257143,09263277144"
+            }
+         ],
+         "updated_at":"29/6/2021 9:55 am",
+         "rates":[
+            {
+               "code":"USD",
+               "country":"အမေရိကန်ဒေါ်လာ",
+               "flag":"https://flagpedia.net/data/flags/w1160/us.png",
+               "buy":"1673",
+               "sell":"1680"
+            },
+            {
+               "code":"SGD",
+               "country":"စင်္ကာပူဒေါ်လာ",
+               "flag":"https://flagpedia.net/data/flags/w1160/sg.png",
+               "buy":"1178",
+               "sell":"1188"
+            },
+            {
+               "code":"EURO",
+               "country":"ယူရို",
+               "flag":"https://flagpedia.net/data/org/w1160/eu.png",
+               "buy":"1869",
+               "sell":"1885"
+            },
+            {
+               "code":"THB",
+               "country":"ထိုင်းဘတ်",
+               "flag":"https://flagpedia.net/data/flags/w1600/th.png",
+               "buy":"49.1",
+               "sell":"49.5"
+            },
+            {
+               "code":"MYR",
+               "country":"မလေးရှား",
+               "flag":"https://flagpedia.net/data/flags/w1600/my.png",
+               "buy":"371",
+               "sell":"374"
+            },
+            {
+               "code":"CNY",
+               "country":"တရုတ်ယွမ်",
+               "flag":"https://flagpedia.net/data/flags/w580/cn.png",
+               "buy":"235",
+               "sell":"240"
+            },
+            {
+               "code":"JPY",
+               "country":"ဂျပန်ယန်း",
+               "flag":"https://flagpedia.net/data/flags/w1600/jp.png",
+               "buy":"13.3",
+               "sell":"13.6"
+            },
+            {
+               "code":"AUS",
+               "country":"သြစတေးလျဒေါ်လာ",
+               "flag":"https://flagpedia.net/data/flags/w1600/au.png",
+               "buy":"1150",
+               "sell":"1170"
+            },
+            {
+               "code":"INR",
+               "country":"ရူးပီး",
+               "flag":"https://www.worldatlas.com/r/w1200/img/flag/in-flag.jpg",
+               "buy":"19",
+               "sell":"20.5"
+            }
+         ]
+      },
+      {
+         "name":"Northern Breeze Exchange Service",
+         "remark":"ငွေဈေးနှုန်းအပြောင်းအလဲများကြောင့် Update ဈေးနှုန်းများကို အချိန်နဲ့တစ်ပြေးညီ သိရှိနိုင်ရန် on call service သို့ မေးမြန်းစုံစမ်းနိုင်ပါသည်။",
+         "address":[
+            {
+               "name":"Main Shop\nNo(74)၊ မနော်ဟရီလမ်း၊ ထိုင်းသံရုံးဘေး၊ ဒဂုံမြို့နယ်။",
+               "latlong":"null",
+               "phone":"018218148,098624593,0973060919,09795304262,09689729513"
+            },
+            {
+               "name":"Yankin Branch\nNo(274)၊ အခန်း(၂)၊ ရန်ကင်းလမ်းမ၊ ရန်ကင်းမြို့နယ်။",
+               "latlong":"16.832265668538366,96.16230178390408",
+               "phone":"0973230027,09253143677,09262625745"
+            },
+            {
+               "name":"8 Mile Branch\nNo(107/B) ၈ မိုင်၊ Junction 8 ၏အရှေ့၊ ၆ ရပ်ကွက်၊ မရမ်းကုန်းမြို့နယ်။",
+               "latlong":"16.87038101041237, 96.13964248291788",
+               "phone":"09773369709,09455224935"
+            },
+            {
+               "name":"Bahosi Branch\nNo(68/A) ဗဟိုစည်အိမ်ရာ၊ မြေညီထပ်၊ လမ်းမတော်မြို့နယ်။",
+               "latlong":"null",
+               "phone":"09459215592,09662206999"
+            }
+         ],
+         "updated_at":"5/8/2021 10:47 am",
+         "rates":[
+            {
+               "code":"USD",
+               "country":"အမေရိကန်ဒေါ်လာ",
+               "flag":"https://flagpedia.net/data/flags/w1160/us.png",
+               "buy":"1662",
+               "sell":"1666"
+            },
+            {
+               "code":"EUR",
+               "country":"ယူရို",
+               "flag":"https://flagpedia.net/data/org/w1160/eu.png",
+               "buy":"1845",
+               "sell":"1865"
+            },
+            {
+               "code":"SGD",
+               "country":"စင်္ကာပူဒေါ်လာ",
+               "flag":"https://flagpedia.net/data/flags/w1160/sg.png",
+               "buy":"1170",
+               "sell":"1185"
+            },
+            {
+               "code":"MYR",
+               "country":"မလေးရှား",
+               "flag":"https://flagpedia.net/data/flags/w1600/my.png",
+               "buy":"370",
+               "sell":"378"
+            }
+         ]
+      }
+   ]
+}
