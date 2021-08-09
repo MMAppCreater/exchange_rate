@@ -1,0 +1,60 @@
+{
+         "name":"CB Bank",
+         "remark":"No. (46), Union Financial Center (Tower A & B), Corner of Mahar Bandoola Road & Thein Phyu Road, Botahtaung Township, Yangon, 11161 Myanmar",
+         "address":[
+            {
+               "name":"No.(A 3/4), Thiri Yadanar Truck Terminal, Thudamar Street, Htawunba extend ward, North Okkalapa Township, ရန်ကုန်",
+               "latlong":"16.926216959706082, 96.1562268051271",
+               "phone":"01691029"
+            },
+            {
+               "name":"No.(673), Thudhamma Road, (F) Ward, North Okkalapa Township, ရန်ကုန်",
+               "latlong":"16.90026760917691, 96.16120498497399",
+               "phone":"019691419"
+            },
+           {
+               "name":"No.(340),Bagan Street,No/14 Myaytine Ward, Shwepaukkan, ရန်ကုန်",
+               "latlong":"16.943788222646493, 96.18686835999551",
+               "phone":"01696183"
+            }
+           
+         ],
+         "updated_at":"09/08/2021 - 10:50 AM",
+         "rates":[
+            {
+               "code":"USD",
+               "country":"အမေရိကန်ဒေါ်လာ",
+               "flag":"https://flagpedia.net/data/flags/w1160/us.png",
+               "buy":"1650",
+               "sell":"1660"
+            },
+            {
+               "code":"SGD",
+               "country":"စင်္ကာပူဒေါ်လာ",
+               "flag":"https://flagpedia.net/data/flags/w1160/sg.png",
+               "buy":"1170",
+               "sell":"1192"
+            },
+            {
+               "code":"EURO",
+               "country":"ယူရို",
+               "flag":"https://flagpedia.net/data/org/w1160/eu.png",
+               "buy":"1890",
+               "sell":"1910"
+            },
+            {
+               "code":"THB",
+               "country":"ထိုင်းဘတ်",
+               "flag":"https://flagpedia.net/data/flags/w1600/th.png",
+               "buy":"48",
+               "sell":"50"
+            },
+            {
+               "code":"MYR",
+               "country":"မလေးရှား",
+               "flag":"https://flagpedia.net/data/flags/w1600/my.png",
+               "buy":"365",
+               "sell":"390"
+            }
+         ]
+      },
