@@ -1,0 +1,46 @@
+{
+         "name":"AYA Bank",
+         "remark":"No. 416, Mahabandoola Road, Kyauktada Township, Yangon, Myanmar.",
+         "address":[
+            {
+               "name":"No (A1-9/10), Thu Damar Road, Thiriyadana Zay, North Okkapa, ရန်ကုန်",
+               "latlong":"116.928460836590222, 96.1560559546795",
+               "phone":"019699547"
+            },
+            {
+               "name":"No 253,Khaymerthi Street, (8)Ward,N/Oakkalarpa Tsp, ရန်ကုန်",
+               "latlong":"16.91597946538172, 96.16275074815269",
+               "phone":"012317777"
+            },
+           {
+               "name":"No-(90), Thudhamma Road, (2) Block , North Okkalapa Township, ရန်ကုန်",
+               "latlong":"16.881979959665998, 96.15519764782395",
+               "phone":"01651256"
+            }
+           
+         ],
+         "updated_at":"9th August 2021 ( 11:29 AM )",
+         "rates":[
+            {
+               "code":"USD",
+               "country":"အမေရိကန်ဒေါ်လာ",
+               "flag":"https://flagpedia.net/data/flags/w1160/us.png",
+               "buy":"1660",
+               "sell":"1670"
+            },
+            {
+               "code":"SGD",
+               "country":"စင်္ကာပူဒေါ်လာ",
+               "flag":"https://flagpedia.net/data/flags/w1160/sg.png",
+               "buy":"1185",
+               "sell":"1194"
+            },
+            {
+               "code":"EURO",
+               "country":"ယူရို",
+               "flag":"https://flagpedia.net/data/org/w1160/eu.png",
+               "buy":"1860",
+               "sell":"1873"
+            }
+         ]
+      }
